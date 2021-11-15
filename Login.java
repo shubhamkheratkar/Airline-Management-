@@ -3,7 +3,7 @@ import java.awt.event.*;
 public class Login extends Frame implements ActionListener
 {
 	String username = "shubham";
-	String password = "shubham";
+	String password = "shubhamk";
 	TextField t1,t2;
 	Label l1,l2,l3,l4,l5,l6;
 	Button b2,b3,b4;
